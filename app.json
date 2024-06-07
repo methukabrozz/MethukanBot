@@ -1,8 +1,8 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"MN-Bot",
+  "description":"An easy and simple WhatsApp bot developed by methukan",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/14af8c5d8a955dc93b884.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
   "succes_url":"/",
   "stack":"container",
@@ -41,14 +41,14 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"MN-Bot",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/14af8c5d8a955dc93b884.jpg",
       "required":false
 
      },
@@ -70,7 +70,7 @@
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH FLASH-MD-WA-BOT;;;=>",   
+      "description":"put your session ID, AMKE SURE IT STARTS WITH methukan;;;=>",   
       "value":"",
       "required": true
 
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "methukan"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "94742734789"
   },
     "WARN_COUNT":
   {
